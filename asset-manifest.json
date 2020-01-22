@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/hp-potion.git/static/css/main.6942d723.chunk.css",
-    "main.js": "/hp-potion.git/static/js/main.03e6824d.chunk.js",
-    "main.js.map": "/hp-potion.git/static/js/main.03e6824d.chunk.js.map",
-    "runtime-main.js": "/hp-potion.git/static/js/runtime-main.a9eab278.js",
-    "runtime-main.js.map": "/hp-potion.git/static/js/runtime-main.a9eab278.js.map",
-    "static/js/2.131b2820.chunk.js": "/hp-potion.git/static/js/2.131b2820.chunk.js",
-    "static/js/2.131b2820.chunk.js.map": "/hp-potion.git/static/js/2.131b2820.chunk.js.map",
-    "index.html": "/hp-potion.git/index.html",
-    "precache-manifest.df9b7c3a85b65aa4e69d6d8b9f9e4007.js": "/hp-potion.git/precache-manifest.df9b7c3a85b65aa4e69d6d8b9f9e4007.js",
-    "service-worker.js": "/hp-potion.git/service-worker.js",
-    "static/css/main.6942d723.chunk.css.map": "/hp-potion.git/static/css/main.6942d723.chunk.css.map",
-    "static/js/2.131b2820.chunk.js.LICENSE": "/hp-potion.git/static/js/2.131b2820.chunk.js.LICENSE",
-    "static/media/index.css": "/hp-potion.git/static/media/back.1c52ff04.jpg",
-    "static/media/logo.png": "/hp-potion.git/static/media/logo.5c43bc59.png"
+    "main.css": "/hp-potion/static/css/main.30f7d808.chunk.css",
+    "main.js": "/hp-potion/static/js/main.03e6824d.chunk.js",
+    "main.js.map": "/hp-potion/static/js/main.03e6824d.chunk.js.map",
+    "runtime-main.js": "/hp-potion/static/js/runtime-main.7c4ce117.js",
+    "runtime-main.js.map": "/hp-potion/static/js/runtime-main.7c4ce117.js.map",
+    "static/js/2.131b2820.chunk.js": "/hp-potion/static/js/2.131b2820.chunk.js",
+    "static/js/2.131b2820.chunk.js.map": "/hp-potion/static/js/2.131b2820.chunk.js.map",
+    "index.html": "/hp-potion/index.html",
+    "precache-manifest.b53d8e55decf5544d50220f8ef25b20f.js": "/hp-potion/precache-manifest.b53d8e55decf5544d50220f8ef25b20f.js",
+    "service-worker.js": "/hp-potion/service-worker.js",
+    "static/css/main.30f7d808.chunk.css.map": "/hp-potion/static/css/main.30f7d808.chunk.css.map",
+    "static/js/2.131b2820.chunk.js.LICENSE": "/hp-potion/static/js/2.131b2820.chunk.js.LICENSE",
+    "static/media/index.css": "/hp-potion/static/media/back.1c52ff04.jpg",
+    "static/media/logo.png": "/hp-potion/static/media/logo.5c43bc59.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9eab278.js",
+    "static/js/runtime-main.7c4ce117.js",
     "static/js/2.131b2820.chunk.js",
-    "static/css/main.6942d723.chunk.css",
+    "static/css/main.30f7d808.chunk.css",
     "static/js/main.03e6824d.chunk.js"
   ]
 }
